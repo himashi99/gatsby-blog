@@ -5,6 +5,7 @@
   "author": "Himashi Hettege Dona <himashi99@hotmail.com>",
   "dependencies": {
     "gatsby": "^1.9.247",
+    "gatsby-cli": "^1.1.58",
     "gatsby-link": "^1.6.40",
     "gatsby-plugin-react-helmet": "^2.0.10",
     "gatsby-plugin-sass": "^1.0.26",
